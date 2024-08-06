@@ -2,13 +2,13 @@
 
 I am a passionate data engineer who loves working with data and creating valuable insights to aid people and organisations.
 
-## Data Engineer projects :briefcase:
+## Data Engineer projects 
 
 | repository                     | project description                                                      |
 | ------------------------------ | ------------------------------------------------------------------------ |
-| [Power BI Dashboard][pbdash]   | Creating a dataset with SSMS and designing a dashboard to visualize the data            |
-| [Apache Kafka E-commerce][a]   | teaching deep learning algorithms, including computer vision and NLP     |
-| [ETL with python][pyetl]       | teaching shallow machine learning algorithms, mainly supervised learning |
+| [Power BI Dashboard][pbdash]   | Designing a dashboard that vizualize sales data for a company.           |
+| [Apache Kafka E-commerce][a]   | python application that simulates E-commerce sales using Apache kafka     |
+| [ETL with python][pyetl]       | python application that extracts weather data using an API and loads it into an excel file |
 
 
 [pbdash]: https://github.com/simontroedsson/PowerBI-Dashboard
