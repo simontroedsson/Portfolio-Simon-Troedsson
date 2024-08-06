@@ -25,7 +25,7 @@ These are some projects I've deployed
 
 ## education :books:
 
-Here are some courses and education programs I've studied that are most relevant to my current field of work.
+Here are some education programs I've studied that are most relevant to my current field of work.
 
 | :blue_book:                             | :school:                     | :calendar: |
 | --------------------------------------- | ---------------------------- | ---------- |
