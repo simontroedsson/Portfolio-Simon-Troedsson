@@ -15,14 +15,6 @@ I am a passionate data engineer who loves working with data and creating valuabl
 [a]: https://github.com/simontroedsson/Apache-kafka-projekt
 [pyetl]: https://github.com/simontroedsson/Weather-ETL-with-python
 
-## deployed projects :open_file_folder:
-
-These are some projects I've deployed
-
-| project                             | description                                                                                                         |
-| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-|  |
-
 ## education :books:
 
 Here are some education programs I've studied that are most relevant to my current field of work.
