@@ -6,7 +6,7 @@ I am a passionate data engineer who loves working with data and creating valuabl
 
 | repository                     | project description                                                      |
 | ------------------------------ | ------------------------------------------------------------------------ |
-| [Power BI Dashboard][pbdash]   | Creating a dashboard that vizualize sales data for a company.           |
+| [Power BI Dashboard][pbdash]   | Creating a dashboard that visualize sales data for a company.           |
 | [Apache Kafka E-commerce][a]   | python application that simulates E-commerce sales using Apache kafka     |
 | [ETL with python][pyetl]       | python application that extracts weather data using an API and loads it into an excel file |
 
