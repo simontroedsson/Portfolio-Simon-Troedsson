@@ -2,7 +2,7 @@
 
 I am a passionate data engineer who loves working with data and creating valuable insights to aid people and organisations.
 
-## Data Engineer projects 
+## Data Engineer projects :open_file_folder:
 
 | repository                     | project description                                                      |
 | ------------------------------ | ------------------------------------------------------------------------ |
